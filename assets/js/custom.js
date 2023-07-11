@@ -12,7 +12,7 @@ $(document).ready(function() {
 
     });
 
-    var apiBaseURL = 'http://api.themoviedb.org/3/';
+    var apiBaseURL = 'https://api.themoviedb.org/3/';
     var apiKey = "f8f42ffc4809217e9683e3a13cacd9db";
     // URL in Authentication. Base URL of image
     var imageBaseUrl = 'https://image.tmdb.org/t/p/';
